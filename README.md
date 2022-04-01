@@ -1,5 +1,5 @@
 # Password-Generator
-Provides any variation (letters, numbers, special characters,  or all of the above)of secure passwords from 8 characters up to 128 characters. 
+Provides any variation (letters, numbers, special characters, or all of the above) of secure passwords from 8 characters up to 128 characters. 
 
 ## User Story
 
@@ -29,4 +29,11 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
+## Mock-Up
+![mockup](./Images/PWGenerator.JPG)
+![mockup](./Images/PWGenerator(2).JPG)
+
 ## Links
+https://github.com/KVPang/password-generator
+
+https://kvpang.github.io/password-generator/
